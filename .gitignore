@@ -1,0 +1,13 @@
+.vscode/
+
+Thumbs.db
+desktop.ini
+
+.DS_Store
+
+node_modules/
+
+*.zip
+*.rar
+*.7z
+*.tmp
